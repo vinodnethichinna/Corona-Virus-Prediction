@@ -1,0 +1,9 @@
+setwd('C:/Users/Vinod/Desktop/Data Analytics Project')
+sample<-read.table("Input_For_NaiveBayes.csv",header = TRUE,sep = ",")
+traindata<-as.data.frame(sample[1:2119,])
+testdata<-as.data.frame(sample[2120,])
+install.packages("e1071", dep = TRUE)
+library(e1071)
+model<-naiveBayes(state~ï..sex+age+country,traindata)
+results<-predict(model,testdata)
+results

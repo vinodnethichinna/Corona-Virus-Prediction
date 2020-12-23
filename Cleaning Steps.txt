@@ -1,0 +1,14 @@
+Cleanup:
+1. Major Cleaning steps like removing nulls, replacing N/A Values, Some Garbage data are replaced in tableau, PowerBI while loading data into the tool and performed Clustering and Visualization accordingly.
+2. We do have some null values for age and we neglected those values.
+3. There is one more visualization for "Confirmed cases by Country and Age" which is an Animated Bar Chart Race which we didn't take screenshot.
+4. For clustering, we have linear values for most of our data. We tried making multiple clusters with different attributes.
+5. For Naive Bayes, we took a different file. Which will predict the State(Isolated, Released, Deceased) of a COVID infected patient. To predict it we took Age, Sex and Country in our TestData.
+
+
+Tools Used:
+R-Studio(Naive Bayes)
+Tableau(Clustering and Data Cleanup)
+PowerBI (Data Cleanup and Visualization)
+EXCEL (Minor modifications to the data files)
+	

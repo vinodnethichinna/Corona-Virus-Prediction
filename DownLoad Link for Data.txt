@@ -1,0 +1,7 @@
+Clustering and Visualization
+
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+
+Naïve Bayes:
+
+https://www.kaggle.com/kimjihoo/coronavirusdataset#PatientInfo.csv
