@@ -1,4 +1,4 @@
-# Corono Virus Prediction.
+# Corona Virus Prediction.
 Hi,
 
 In this project, I worked on 2 datasets downloaded from Kaggle. The first one I used to make clusters and study the relationship between different variables. The second dataset is used to predict the state of a person based on age, sex, country. depending on training data our model will predict the state of a new person based on those columns. To achieve this I used the R - Naive Bayes model.
